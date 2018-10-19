@@ -1,0 +1,33 @@
+button.modais{
+  margin-top: 7px;
+  margin-right: 5px;
+}
+div#foot{
+  height: 1000px;
+}
+
+img.img{
+  height: 10em;
+  width: 15em;
+}
+img.logo{
+  margin-top: -15px;
+  height: 4em;
+  width: 10em;
+}
+nav{
+  height: 5em;
+}
+ul{
+  font-size: 15pt;
+}
+#corpo{
+  margin-top: 5em;
+}
+#myCarousel{
+width: 650px;
+height:450px;
+margin-left:320px;
+margin-top: 80px;
+
+}
